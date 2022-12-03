@@ -1023,11 +1023,6 @@
   resolved "https://registry.yarnpkg.com/@protobufjs/utf8/-/utf8-1.1.0.tgz#a777360b5b39a1a2e5106f8e858f2fd2d060c570"
   integrity sha1-p3c2C1s5oaLlEG+OhY8v0tBgxXA=
 
-"@react-native-community/async-storage@^1.4.2":
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/@react-native-community/async-storage/-/async-storage-1.4.2.tgz#b29d2fa1b294fec8526f69b852a3deda248c8d81"
-  integrity sha512-gDQENh7uPLGPKbRFI07GiUXZPhm2j17K4FT308OwAmIiOKbfO/cxy0sCWB0YzD/SLw9F3D9tLBRPJY6GG9YZLw==
-
 "@react-native-community/cli@^1.2.1":
   version "1.9.8"
   resolved "https://registry.yarnpkg.com/@react-native-community/cli/-/cli-1.9.8.tgz#8488699f78b146cab2d7451951c4218671812cdc"
@@ -2038,9 +2033,9 @@ decamelize@^1.1.1, decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-extend@^0.6.0:
   version "0.6.0"
